@@ -14,5 +14,6 @@
 	dct:subject gadtopics:geoscientificInformation;
 	dct:identifier "1ef37b"^^xsd:string;
 	dct:language "en"^^xsd:string;
-	dct:publisher <http://pid-test.geoscience.gov.au/agent/ga>
+	dct:publisher <http://pid-test.geoscience.gov.au/agent/ga>;
+	prov:has_provenance: <http://pid-test.geoscience.gov.au/bundle/1ef37b>;
 .
